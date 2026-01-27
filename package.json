@@ -1,0 +1,12 @@
+{
+  "name": "wealthaiguard",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Reference implementation for multi-tenant SaaS with AI boundaries",
+  "scripts": {
+    "build": "echo 'Build scripts to be added'",
+    "test": "echo 'Test scripts to be added'",
+    "lint": "echo 'Lint scripts to be added'"
+  }
+}
+
