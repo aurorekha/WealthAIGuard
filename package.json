@@ -4,9 +4,14 @@
   "private": true,
   "description": "Reference implementation for multi-tenant SaaS with AI boundaries",
   "scripts": {
-    "build": "echo 'Build scripts to be added'",
-    "test": "echo 'Test scripts to be added'",
-    "lint": "echo 'Lint scripts to be added'"
+    "dev": "cd apps/frontend && npm run dev",
+    "build": "cd apps/frontend && npm run build",
+    "test": "cd apps/frontend && npm run test",
+    "lint": "cd apps/frontend && npm run lint",
+    "frontend:dev": "cd apps/frontend && npm run dev",
+    "frontend:build": "cd apps/frontend && npm run build",
+    "frontend:test": "cd apps/frontend && npm run test"
   }
 }
+
 
